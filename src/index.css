@@ -1,0 +1,7 @@
+/* @import url("./css/bulma.min.css"); */
+@import url("./css/bulma-extensions.min.css");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
